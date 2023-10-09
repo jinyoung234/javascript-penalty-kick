@@ -1,0 +1,22 @@
+{
+  "name": "javascript-penalty-kick",
+  "version": "1.0.0",
+  "description": "우아한테크코스 프리코스 맛보기",
+  "dependencies": {
+    "@woowacourse/mission-utils": "^1.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jw-r/javascript-penalty-kick.git"
+  },
+  "keywords": [],
+  "author": "woody",
+  "license": "MIT",
+  "homepage": "https://github.com/jw-r/javascript-penalty-kick#readme",
+  "engineStrict": true,
+  "engines": {
+    "npm": ">=6.0.0",
+    "node": ">=14.0.0"
+  }
+}
+//git commit -m 'feat: setup penalty-kick project' 
